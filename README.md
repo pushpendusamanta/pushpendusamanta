@@ -41,7 +41,7 @@
   
 <h2>🏆 My Trophies: </h2>
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sa-9789&theme=darkhub&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=pushpendusamanta&theme=darkhub&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h2>📊 My Github Stats: </h2>
 <center>
@@ -51,16 +51,16 @@
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td rowspan="2">
-      <p align="left"> <a href="https://github.com/sa-9789">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa-9789&langs_count=100&theme=radical" />
+      <p align="left"> <a href="https://github.com/pushpendusamanta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendusamanta&langs_count=100&theme=radical" />
 </a> </p></td>
-    <td><a href="https://github.com/sa-9789">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sa-9789&show_icons=true&theme=merko&line_height=33&include_all_commits=true" alt="sa-9789"/>
+    <td><a href="https://github.com/pushpendusamanta">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpendusamanta&show_icons=true&theme=merko&line_height=33&include_all_commits=true" alt="pushpendusamanta"/>
 </a> </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sa-9789">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa-9789&theme=highcontrast&line_height=20" alt="sa-9789"/>
+    <td><a href="https://github.com/pushpendusamanta">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpendusamanta&theme=highcontrast&line_height=20" alt="pushpendusamanta"/>
 </a></td> 
   </tr>
   </table>
